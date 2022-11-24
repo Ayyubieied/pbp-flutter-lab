@@ -67,7 +67,7 @@ class Fields {
 enum Model { MYWATCHLIST_FILMWATCH }
 
 final modelValues = EnumValues({
-  "mywatchlist.filmwatch": Model.MYWATCHLIST_FILMWATCH
+  "mywatchlist.MyWatchList": Model.MYWATCHLIST_FILMWATCH
 });
 
 class EnumValues<T> {

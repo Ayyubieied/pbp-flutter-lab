@@ -94,7 +94,7 @@ class _MyDetailPageState extends State<MyDetailPage> {
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Text(
-                  "Rating : ${model.rating.toString()} / 5",
+                  "Rating : ${model.rating.toString()} / 10",
                 ),
               ),
               Padding(
